@@ -1,0 +1,8 @@
+C:\Users\Desk\source\repos\App.Serie\App.Serie.Dio\obj\Debug\App.Serie.Dio.csproj.AssemblyReference.cache
+C:\Users\Desk\source\repos\App.Serie\App.Serie.Dio\obj\Debug\App.Serie.Dio.csproj.SuggestedBindingRedirects.cache
+C:\Users\Desk\source\repos\App.Serie\App.Serie.Dio\obj\Debug\App.Serie.Dio.csproj.CoreCompileInputs.cache
+C:\Users\Desk\source\repos\App.Serie\App.Serie.Dio\bin\Debug\App.Serie.Dio.exe.config
+C:\Users\Desk\source\repos\App.Serie\App.Serie.Dio\bin\Debug\App.Serie.Dio.exe
+C:\Users\Desk\source\repos\App.Serie\App.Serie.Dio\bin\Debug\App.Serie.Dio.pdb
+C:\Users\Desk\source\repos\App.Serie\App.Serie.Dio\obj\Debug\App.Serie.Dio.exe
+C:\Users\Desk\source\repos\App.Serie\App.Serie.Dio\obj\Debug\App.Serie.Dio.pdb
